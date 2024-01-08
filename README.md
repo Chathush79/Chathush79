@@ -33,7 +33,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https:https://www.youtube.com/@chathuraharshana258" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@chathuraharshana258" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" height="50" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100014188174981&mibextid=JRoKGi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" /></a>
 <a href="https://https://www.instagram.com/chathush_79" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" height="50" width="50" /></a>
 </p>
