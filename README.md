@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chathura Harshana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathush79&label=Profile%20views&color=0e75b6&style=flat" alt="chathush79" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chathush79&label=Profile%20views&color=0e75b6&style=flat" alt="chathush79" /> </p>
 
 - 🌱 I’m currently learning **Web Development and other programming languages**
 
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I Always try to learn something new and then sleep till it store in the brain 😎**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
