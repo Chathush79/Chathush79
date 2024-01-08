@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I Always try to learn something new and then sleep till it store in the brain 😎**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 </p>
 
